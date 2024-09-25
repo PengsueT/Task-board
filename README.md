@@ -21,3 +21,7 @@ Bootstrap Form: https://getbootstrap.com/docs/5.3/forms/overview/
 Day.js API: https://day.js.org/docs/en/query/query
 
 DayPicker: https://bootstrap-datepicker.readthedocs.io/en/latest/
+
+## Deployed Link
+
+[GithubLiveLink](https://pengsuet.github.io/Task-board/)
